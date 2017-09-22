@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research - Murali
+title: Research
 permalink: /research/
 ---
 

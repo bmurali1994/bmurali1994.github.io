@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact - Murali
+title: Contact
 permalink: /contact/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog - Murali
+title: Blog
 permalink: /blog/
 ---
 
