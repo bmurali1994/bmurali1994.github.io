@@ -10,6 +10,14 @@ I am interested in Machine Learning, Deep Learning and their applications in Nat
 
 You can reach me at b1994murali [at] gmail [dot] com.
 
-<center>Affiliations</center>
-
-![GaTech](https://bmurali1994.github.io/docs/pictures/gatech.png)
+<h3 align="center">Affiliations</h3>
+<figure align="center" class="affils">
+    <a href="http://www.gatech.edu/"><img src="/docs/pictures/gatech.png" /></a>
+    <a href="http://www.iitg.ac.in/"><img src="/docs/pictures/iitg.png" /></a>
+    <a href="https://www.amazon.com/"><img src="/docs/pictures/amazon.png" /></a>
+</figure>
+<figure align="center" class="affils">
+    <figcaption>Georgia Tech<br />2016-present</figcaption>
+    <figcaption>IIT Guwahati<br />2012-2016</figcaption>
+    <figcaption>Amazon.com Inc.<br />Summer 2017</figcaption>
+</figure>
