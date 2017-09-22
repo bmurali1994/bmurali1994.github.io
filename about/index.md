@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome
+title: Welcome!
 permalink: /about/
 ---
 
@@ -8,7 +8,7 @@ I'm a second year Graduate Student majoring in Computer Science and speciailizin
 
 I am interested in Machine Learning, Deep Learning and their applications in Natural Language Processing and Computer Vision.
 
-You can reach me at b1994murali [at] gmail [dot] com.
+You can reach me at:  b1994murali [at] gmail [dot] com.
 
 <h5 align="center">Affiliations</h5>
 <figure align="center" class="affils">
