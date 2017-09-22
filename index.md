@@ -15,5 +15,4 @@ You can reach me at b1994murali [at] gmail [dot] com.
 <a href="http://www.gatech.edu/"><img style="float: left;" src="/docs/pictures/gatech.png" style="width: 75px; height: 50px; margin:0px 18px"/></a>
 <a href="http://www.iitg.ac.in/"><img style="float: left;" src="/docs/pictures/iitg.png" style="width: 50px; height: 50px; margin:0px 18px"/></a>
 <a href="https://www.amazon.com/"><img style="float: left;" src="/docs/pictures/amazon.png" style="width: 50px; height: 50px; margin:0px 18px"/></a>
-<h7><figcaption>(2016-Present) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (2012-2016) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Summer 2017)</figcaption></h7>
 </figure>
