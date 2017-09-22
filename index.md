@@ -12,4 +12,4 @@ You can reach me at b1994murali [at] gmail [dot] com.
 
 <center>Affiliations</center>
 
-<center>![GitHub Logo](https://bmurali1994.github.io/docs/pictures/gatech.png)</center>
+<center> ![GaTech](https://bmurali1994.github.io/docs/pictures/gatech.png) </center>

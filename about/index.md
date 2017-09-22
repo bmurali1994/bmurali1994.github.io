@@ -9,3 +9,7 @@ I'm a second year Graduate Student majoring in Computer Science and speciailizin
 I am interested in Machine Learning, Deep Learning and their applications in Natural Language Processing and Computer Vision.
 
 You can reach me at b1994murali [at] gmail [dot] com.
+
+<center>Affiliations</center>
+
+<center> ![GaTech](https://bmurali1994.github.io/docs/pictures/gatech.png) </center>
