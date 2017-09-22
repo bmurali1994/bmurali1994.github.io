@@ -1,0 +1,11 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+I'm a second year Graduate Student majoring in Computer Science and speciailizing in Machine Learning at [Georgia Tech](https://www.gatech.edu). I finished my Bachelors in Computer Science and Engineering from [IIT Guwahati](https://www.iitg.ac.in).
+
+I am interested in Machine Learning, Deep Learning and their applications in Computer Vision and Natural Language Processing.
+
+You can reach me at b1994murali at gmail dot com.
