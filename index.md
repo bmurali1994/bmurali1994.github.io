@@ -17,7 +17,7 @@ You can reach me at b1994murali [at] gmail [dot] com.
 <a href="https://www.amazon.com/"><img style="float: left;" src="/docs/pictures/amazon.png" style="width: 100px;"/></a>
 </figure>
 <h7>
-<figure align="center" class="affils">
+<figure align="center" class="affils" style="float: left;">
     <figcaption>Georgia Institute of Technology<br />2016-present</figcaption>
     <figcaption>IIT Guwahati<br />2012-2016</figcaption>
     <figcaption>Amazon Inc.<br />Summer 2017</figcaption>
