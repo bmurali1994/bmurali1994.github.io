@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Courses
-permalink: /courses/
+permalink: /research/courses/
 ---
 
 You can find most of my course work, both during graduate and undergraduate here:
