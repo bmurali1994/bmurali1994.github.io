@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome!
+title: Welcome
 permalink: /
 ---
 
@@ -12,4 +12,4 @@ You can reach me at b1994murali [at] gmail [dot] com.
 
 <center>Affiliations</center>
 
-<center> ![GaTech](https://bmurali1994.github.io/docs/pictures/gatech.png) </center>
+![GaTech](https://bmurali1994.github.io/docs/pictures/gatech.png)
