@@ -11,7 +11,7 @@ I am interested in Machine Learning, Deep Learning and their applications in Nat
 You can reach me at b1994murali [at] gmail [dot] com.
 
 <h3 align="center">Affiliations</h3>
-<div>
+<div style="width: 400px;">
 	<figure align="center" class="affils">
     <a href="http://www.gatech.edu/"><img src="/docs/pictures/gatech.png" style="width: 150px;"/></a>
     <figcaption>Georgia Tech (2016-present)</figcaption>
