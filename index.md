@@ -14,10 +14,10 @@ You can reach me at b1994murali [at] gmail [dot] com.
 <ul>
 <div style="width: 400px;">
 	<figure align="center" class="affils">
-    <a href="http://www.gatech.edu/"><img src="/docs/pictures/gatech.png" style="width: 150px;"/></a>
-    <figcaption>Georgia Tech (2016-present)</figcaption>
-    <a href="http://www.iitg.ac.in/"><img src="/docs/pictures/iitg.png" style="width: 100px;"/></a>
-    <figcaption>IIT Guwahati (2012-2016)</figcaption>
+    <li><a href="http://www.gatech.edu/"><img src="/docs/pictures/gatech.png" style="width: 150px;"/></a>
+    <figcaption>Georgia Tech (2016-present)</figcaption></li>
+    <li><a href="http://www.iitg.ac.in/"><img src="/docs/pictures/iitg.png" style="width: 100px;"/></a>
+    <figcaption>IIT Guwahati (2012-2016)</figcaption></li>
     <a href="https://www.amazon.com/"><img src="/docs/pictures/amazon.png" style="width: 100px;"/></a>
     <figcaption>Amazon.com Inc. (Summer 2017)</figcaption>
 	</figure>
