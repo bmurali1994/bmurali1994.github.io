@@ -13,11 +13,9 @@ You can reach me at b1994murali [at] gmail [dot] com.
 <h3 align="center">Affiliations</h3>
 <figure align="center" class="affils">
     <a href="http://www.gatech.edu/"><img src="/docs/pictures/gatech.png" style="width: 200px;"/></a>
-    <a href="http://www.iitg.ac.in/"><img src="/docs/pictures/iitg.png" style="width: 200px;"/></a>
-    <a href="https://www.amazon.com/"><img src="/docs/pictures/amazon.png" style="width: 200px;"/></a>
-</figure>
-<figure align="center" class="affils">
     <figcaption>Georgia Tech<br />2016-present</figcaption>
+    <a href="http://www.iitg.ac.in/"><img src="/docs/pictures/iitg.png" style="width: 110px;"/></a>
     <figcaption>IIT Guwahati<br />2012-2016</figcaption>
+    <a href="https://www.amazon.com/"><img src="/docs/pictures/amazon.png" style="width: 110px;"/></a>
     <figcaption>Amazon.com Inc.<br />Summer 2017</figcaption>
 </figure>
