@@ -18,7 +18,7 @@ You can find most of my course work, both during graduate and undergraduate here
 
 - Undergraduate
 
-* Computer Science
+Computer Science
 	* Introduction to NLP
 	* Speech Processing
 	* Introduction to Machine Learning
@@ -35,7 +35,7 @@ You can find most of my course work, both during graduate and undergraduate here
 	* Formal Languages and Automata Theory
 	* Theory of Computation
 
-* Mathematics
+Mathematics
 	* Probability and Random Processes
 	* Optimization
 	* Calculus and Complex Analysis
