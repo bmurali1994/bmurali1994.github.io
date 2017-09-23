@@ -19,6 +19,6 @@ You can reach me at:  b1994murali [at] gmail [dot] com.
 <a href="https://www.amazon.com/"><img style="float: left;" src="/docs/pictures/amazon.png" style="width: 50px; height: 50px; margin:0px 5px"/></a>
 </figure>
 <figure align="center" class="affils">
-	<figcaption style="font-size: 10px;">Georgia Tech IIT Guwahati Amazon Inc.<br />(2016-present) (2012-2016) (Summer 2017)
+	<figcaption style="font-size: 8px;">Georgia Tech IIT Guwahati Amazon Inc.<br />(2016-present) (2012-2016) (Summer 2017)
 	</figcaption>
 </figure>
