@@ -14,7 +14,9 @@
 /**************/
 
 html {
-  font-size: 120%;
+  font-size: 100%;
+  zoom: 2;
+  -moz-transform: scale(2);
 }
 
 body {
