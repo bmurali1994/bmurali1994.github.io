@@ -4,7 +4,7 @@ title: Welcome!
 permalink: /about/
 ---
 
-I'm a second year Graduate Student majoring in Computer Science and speciailizing in Machine Learning at Georgia Tech. I completed my Bachelors in Computer Science and Engineering from IIT Guwahati.
+I'm a second year graduate student majoring in Computer Science and speciailizing in Machine Learning at Georgia Tech. I completed my Bachelors in Computer Science and Engineering from IIT Guwahati.
 
 I am broadly interested in the fields of Machine Learning, Deep Learning and their applications in Natural Language Processing and Computer Vision. My research is advised by [Prof. Jacob Eisenstein](https://www.cc.gatech.edu/~jeisenst/) and I currently work on building NLP systems that are more robust to natural language variation.
 
