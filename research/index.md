@@ -70,7 +70,12 @@ the model’s performance in classification of non-stationary data.
 - **Unsupervised Framework to find spoken terms**
 	- Developed an indexing module by using various clustering algorithms including the BIRCH clustering algorithm to enable searching a spoken query within large spoken audio database.        
             
-            
+
+- Option one  
+ Second paragraph
+
+- Option two  
+ Second paragraph
 
 
 
