@@ -6,7 +6,7 @@ permalink: /research/
 
 My interests broadly lie in the fields of machine learning, natural language processing and computer vision. 
 [Here](/research/courses/) is a list of all the courses I have taken, both during graduate and undergraduate studies.   
- 
+
 
 - **Overcoming Language Variation in POS Tagging using Social Attention** (Ongoing)    
  Working on building a novel attention-based neural network model that exploits social networks to make
@@ -71,12 +71,5 @@ the model’s performance in classification of non-stationary data.
 - **Unsupervised Framework to find spoken terms**  
  Developed an indexing module by using various clustering algorithms including the BIRCH clustering algorithm to enable searching a spoken query within large spoken audio database.        
             
-
-- Option one  
- Second paragraph
-
-- Option two  
- Second paragraph
-
 
 
