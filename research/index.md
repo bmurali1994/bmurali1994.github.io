@@ -21,14 +21,14 @@ and have more reasoning ability.
 
 
 - **Deep Learning Models for Text Summarization** (Summer 2017)    
- SDE Intern, Amazon AI, Seattle, USA
+ SDE Intern, Amazon AI, Seattle, USA  
  Developed a recurrent neural network based hierarchical sequence-to-sequence model that uses attention
 and pointer networks for both extractive and abstractive summarization in mxnet.      
              
 
 
 - **Encoding constraints into Community Detection algorithms** (2015 - 2016)    
- Undergraduate Thesis, IIT Guwahati, India
+ Undergraduate Thesis, IIT Guwahati, India  
  Developed a constrained spectral community detection algorithm that can incorporate domain specific
 degree-of-belief constraints about the clustering structure of the network to obtain better clusters.     
              
