@@ -10,7 +10,7 @@ My interests broadly lie in the fields of machine learning, natural language pro
 
 - **Overcoming Language Variation in POS Tagging using Social Attention** (Fall 2017 - Spring 2018)    
 	- Working on building a novel attention-based neural network model that exploits social networks to make
-POS tagging more robust to social language variation. [\[arXiv\]](https://arxiv.org/abs/1804.07331) [\[code\]](https://github.com/bmurali1994/socialnets_postagging)   
+POS tagging more robust to social language variation. [[arXiv)]](https://arxiv.org/abs/1804.07331) [[code]](https://github.com/bmurali1994/socialnets_postagging)   
 
 
 
