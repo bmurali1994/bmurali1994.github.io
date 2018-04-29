@@ -12,9 +12,11 @@ You can find most of my course work, both during graduate and undergraduate here
 	* Computability and Algorithms
 	* Web Search and Text Mining
 	* Advanced Computer Vision
+	* Computer Vision
 	* Natural Language Processing
 	* Machine Learning
 	* Database Systems
+	* Design and Analysis of Algorithms
 
 - Undergraduate
 
