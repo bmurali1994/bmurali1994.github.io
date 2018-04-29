@@ -8,13 +8,13 @@ My interests broadly lie in the fields of machine learning, natural language pro
 [Here](/research/courses/) is a list of all the courses I have taken, both during graduate and undergraduate studies.   
 
 
-- **Overcoming Language Variation in POS Tagging using Social Attention** (Ongoing)    
+- **Overcoming Language Variation in POS Tagging using Social Attention** (Fall 2017 - Spring 2018)    
 	- Working on building a novel attention-based neural network model that exploits social networks to make
-POS tagging more robust to social language variation.   
+POS tagging more robust to social language variation. [arXiv](https://arxiv.org/abs/1804.07331) [code](https://github.com/bmurali1994/socialnets_postagging)   
 
 
 
-- **Modeling Compositionality in Visual Question Answering VQA** (Ongoing)    
+- **Modeling Compositionality in Visual Question Answering VQA** (Fall 2017)    
 	- Exploring Relational and Dynamic Memory Networks to build VQA models that are more visually grounded
 and have more reasoning ability.  
 

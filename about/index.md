@@ -4,9 +4,9 @@ title: Welcome!
 permalink: /about/
 ---
 
-I'm a second year graduate student majoring in Computer Science and speciailizing in Machine Learning at Georgia Tech. I completed my Bachelors in Computer Science and Engineering from IIT Guwahati.
+I'm a second year graduate student majoring in Computer Science and speciailizing in Machine Learning at Georgia Tech. I completed my Bachelors in Computer Science and Engineering from IIT Guwahati. I will be joining **Google Inc.** as a full-time Software Engineer starting June.
 
-I am broadly interested in the fields of Machine Learning, Deep Learning and their applications in Natural Language Processing and Computer Vision. My research is advised by [Prof. Jacob Eisenstein](https://www.cc.gatech.edu/~jeisenst/) and I currently work on building NLP systems that are more robust to natural language variation.
+I am broadly interested in the fields of Machine Learning, Deep Learning and their applications in Natural Language Processing and Computer Vision. My research is advised by [Prof. Jacob Eisenstein](https://www.cc.gatech.edu/~jeisenst/) and I currently work on building structure aware Machine Learning and Deep Learning Models for Natural Language Understanding.
 
 You can reach me at:  b1994murali [at] gmail [dot] com.
 
