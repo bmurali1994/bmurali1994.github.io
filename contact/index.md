@@ -16,4 +16,4 @@ Phone:
 - +1-470-338-1473
 
 Address: 
-- 144 Ponce De Leon Ave NE, Apt 1307, Atlanta, GA - 30308
+- 710 Peachtree Street NE, Apt 1401, Atlanta, GA - 30308
