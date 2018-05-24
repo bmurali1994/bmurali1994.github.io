@@ -80,8 +80,8 @@ the model’s performance in classification of non-stationary data.
 	- Developed an indexing module by using various clustering algorithms including the BIRCH clustering algorithm to enable searching a spoken query within large spoken audio database.
 
 - Option one  
- Second paragraph
+ - Second paragraph
 
 - Option two  
- Second paragraph
+ - Second paragraph
 	
