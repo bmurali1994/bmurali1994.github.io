@@ -62,26 +62,23 @@ IMDB reviews with respect to various aspects and provide a brief summary to the 
 
 
 
-- **Hidden Markov model for Speech Recognition** (Fall 2015)
- - Built an isolated word recognition system using a Hidden Markov Model for each word and identifying the
+* **Hidden Markov model for Speech Recognition** (Fall 2015)
+	+ Built an isolated word recognition system using a Hidden Markov Model for each word and identifying the
 word based on the highest model likelihood.
 
 
 
 
-- **Initially Labeled Learning in Non-Stationary Environments** (Summer 2015)
- - Developed an algorithm using an under-sampling approach combined with an ensemble approach to improve
+* **Initially Labeled Learning in Non-Stationary Environments** (Summer 2015)
+	+ Developed an algorithm using an under-sampling approach combined with an ensemble approach to improve
 the model’s performance in classification of non-stationary data.
 
 
 
 
-- **Unsupervised Framework to find spoken terms** (Summer 2014)
- - Developed an indexing module by using various clustering algorithms including the BIRCH clustering algorithm to enable searching a spoken query within large spoken audio database.
+* **Unsupervised Framework to find spoken terms** (Summer 2014)
+	+ Developed an indexing module by using various clustering algorithms including the BIRCH clustering algorithm to enable searching a spoken query within large spoken audio database.
 
-- Option one  
- - Second paragraph
 
-- Option two  
- - Second paragraph
+
 	
