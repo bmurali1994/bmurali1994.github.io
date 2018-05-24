@@ -65,14 +65,14 @@ IMDB reviews with respect to various aspects and provide a brief summary to the 
 * **Hidden Markov model for Speech Recognition** (Fall 2015)
 	+ Built an isolated word recognition system using a Hidden Markov Model for each word and identifying the
 word based on the highest model likelihood.
-
+     
 
 
 
 * **Initially Labeled Learning in Non-Stationary Environments** (Summer 2015)
 	+ Developed an algorithm using an under-sampling approach combined with an ensemble approach to improve
 the model’s performance in classification of non-stationary data.
-
+   
 
 
 
