@@ -8,15 +8,15 @@ My interests broadly lie in the fields of machine learning, natural language pro
 [Here](/research/courses/) is a list of all the courses I have taken, both during graduate and undergraduate studies.
 
 
-- **Automatic Sense Prediction for Implicit Discourse Relations** (Spring 2018)
-	Under review at [EMNLP 2018](http://emnlp2018.org/).
+- **Automatic Sense Prediction for Implicit Discourse Relations** (Spring 2018)  
+ Under review at [EMNLP 2018](http://emnlp2018.org/).
 
 
 
 - **Overcoming Language Variation in POS Tagging using Social Attention** (Fall 2017 - Spring 2018)  
-	Working on building a novel attention-based neural network model that exploits social networks to make
+ Working on building a novel attention-based neural network model that exploits social networks to make
 POS tagging more robust to social language variation. [[arXiv]](https://arxiv.org/abs/1804.07331) [[code]](https://github.com/bmurali1994/socialnets_postagging)  
-	Published in Proceedings of [NAACL workshop on stylistic variation (2018)](https://sites.google.com/view/2ndstylisticvariation/home).
+ Published in Proceedings of [NAACL workshop on stylistic variation (2018)](https://sites.google.com/view/2ndstylisticvariation/home).
 
 
 
