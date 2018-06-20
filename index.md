@@ -6,7 +6,7 @@ permalink: /
 
 I am currently a Software Engineer at Google. 
 
-I graduated with a Masters degree in Computer Science (specialization in Machine Learning) from Georgia Tech where I was advised by [Prof. Jacob Eisenstein](https://www.cc.gatech.edu/~jeisenst/). I completed my Bachelors in Computer Science and Engineering from IIT Guwahati. 
+I graduated with a Masters degree in Computer Science (specialization in Machine Learning) from Georgia Tech where I was advised by [Prof. Jacob Eisenstein](https://www.cc.gatech.edu/~jeisenst/). I completed my Bachelors in Computer Science and Engineering from IIT Guwahati.  
 I am broadly interested in the fields of Machine Learning, Deep Learning and their applications in Natural Language Processing and Computer Vision. I am currently exploring structured prediction models for natural language. 
 
 You can reach me at:  b1994murali [at] gmail [dot] com.
