@@ -15,7 +15,7 @@ You can reach me at:  b1994murali [at] gmail [dot] com.
 <h5 align="center">Current and Past Affiliations</h5>
 <figure align="center" class="affils">
 <a href="http://www.google.com/">
-	<img style="float: left;" src="/docs/pictures/google.png" style="width: 85px; height: 50px; margin:0px 5px"/>
+	<img style="float: left;" src="/docs/pictures/google.png" style="width: 85px; height: 40px; margin:0px 5px"/>
 </a>
 <a href="http://www.gatech.edu/">
 	<img style="float: left;" src="/docs/pictures/gatech.png" style="width: 80px; height: 50px; margin:0px 5px"/>
